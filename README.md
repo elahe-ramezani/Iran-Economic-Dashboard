@@ -50,7 +50,7 @@ The dashboard follows a progressive analytical story:
 
 Overview of Iran's economic position compared with neighboring countries.
 
-![Relative Economic Position](Screenshots/01-relative-position.JPG)
+![Relative Economic Position](Screenshots/02-relative-position.JPG)
 
 ---
 
@@ -58,7 +58,7 @@ Overview of Iran's economic position compared with neighboring countries.
 
 Analysis of Iran's GDP ranking and economic performance trends over time.
 
-![Ranking Dynamics](Screenshots/02-ranking-dynamics.JPG)
+![Ranking Dynamics](Screenshots/03-ranking-dynamics.JPG)
 
 ---
 
@@ -66,7 +66,7 @@ Analysis of Iran's GDP ranking and economic performance trends over time.
 
 Analysis of Iran's GDP gap relative to the regional leader and regional median.
 
-![Gap Analysis](Screenshots/03-gap-analysis.JPG)
+![Gap Analysis](Screenshots/04-gap-analysis.JPG)
 
 ---
 
@@ -74,7 +74,7 @@ Analysis of Iran's GDP gap relative to the regional leader and regional median.
 
 Analysis of GDP growth volatility and inflation volatility across the selected period.
 
-![Volatility & Fluctuation](Screenshots/04-volatility-fluctuation.JPG)
+![Volatility & Fluctuation](Screenshots/05-volatility-fluctuation.JPG)
 
 ---
 
@@ -82,7 +82,7 @@ Analysis of GDP growth volatility and inflation volatility across the selected p
 
 Geographic comparison of economic size and relative economic strength across neighboring countries.
 
-![Map & Relative Strength](Screenshots/05-map-relative-strength.JPG)
+![Map & Relative Strength](Screenshots/06-map-relative-strength.JPG)
 
 ---
 
@@ -90,7 +90,7 @@ Geographic comparison of economic size and relative economic strength across nei
 
 Final comparison of key economic indicators and regional economic composition.
 
-![Executive Economic Summary](Screenshots/06-executive-summary.JPG)
+![Executive Economic Summary](Screenshots/07-executive-summary.JPG)
 
 ---
 
